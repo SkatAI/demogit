@@ -146,7 +146,7 @@ class Generate(object):
 La partie Streamlit
 '''
 
-st.title('RAG workshop')
+st.title('RAG workshop - DEMO GIT!!!')
 
 
 with st.sidebar:
